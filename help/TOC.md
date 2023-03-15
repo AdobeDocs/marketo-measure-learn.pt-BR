@@ -5,7 +5,7 @@ user-guide-description: Saiba como aproveitar ao máximo o [!DNL Adobe Marketo M
 source-git-commit: 8d746d38a6bde1470a30706d43fa6567ebba8dff
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
