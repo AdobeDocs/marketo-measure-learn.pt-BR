@@ -4,7 +4,8 @@ description: Assista à primeira lição da série de cursos Boomerang. Saiba co
 jira: KT-11242
 thumbnail: 347229.jpeg
 exl-id: f8548370-e810-4ce6-8088-1d4b433e2c6e
-source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
+feature: Boomerang
+source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
