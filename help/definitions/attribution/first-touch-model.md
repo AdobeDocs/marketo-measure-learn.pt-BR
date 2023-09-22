@@ -9,10 +9,10 @@ jira: KT-11694
 thumbnail: 347216.jpeg
 exl-id: 3ff35394-64c9-46fc-a6c6-6d7bffd026a2
 feature: Attribution
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 21%
+source-wordcount: '30'
+ht-degree: 20%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 21%
 
 Este vídeo fornece uma explicação detalhada do modelo de primeiro contato.
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}

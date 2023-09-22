@@ -5,9 +5,9 @@ jira: KT-11241
 thumbnail: 347248.jpeg
 exl-id: 0e2a18f2-042c-4a93-80c8-840afb804ff7
 feature: Account-based Marketing
-source-git-commit: 00955614c945822dc1889fb22db17b5f51a8f659
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Uma visão geral de alto nível da [!UICONTROL Conta por pontuação de engajamento].  Este tutorial discute quais métricas entram nessa pontuação e o relatório associado a ela.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
