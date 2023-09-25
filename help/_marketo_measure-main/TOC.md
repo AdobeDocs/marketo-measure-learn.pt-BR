@@ -2,7 +2,8 @@
 user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Saiba como aproveitar ao máximo o [!DNL Adobe Marketo Measure] (anteriormente, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] fundamentos e definições.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 6%
@@ -34,7 +35,7 @@ ht-degree: 6%
       + [O que é atribuição](/help/onboarding/marketo-measure-101/what-is-attribution.md)
       + [O que é o [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Dados do Marketo Measure](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
-      + [Pontos de Contato](/help/onboarding/marketo-measure-101/touchpoints.md)
+      + [Pontos de contato](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [Modelos de atribuição](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
       + [A variável [!DNL Marketo Measure] Painéis de ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
@@ -54,7 +55,7 @@ ht-degree: 6%
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
    + [Introdução ao [!DNL Marketo Measure] Descobrir](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
 + Definições{#definitions}
-   + Pontos de Contato{#touchpoints}
+   + Pontos de contato{#touchpoints}
       + [O que é um ponto de contato?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [Pontos de contato de marco](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [Componentes do ponto de contato](/help/definitions/touchpoints/touchpoint-components.md)
@@ -74,7 +75,7 @@ ht-degree: 6%
       + [Objeto de contato](/help/definitions/crm-objects/contact-object.md)
       + [Objeto da oportunidade](/help/definitions/crm-objects/opportunity-object.md)
       + [objeto BT](/help/definitions/crm-objects/bt-object.md)
-      + [Objeto BAT](/help/definitions/crm-objects/bat-object.md)
+      + [Objeto MTD](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure person](/help/definitions/crm-objects/marketo-measure-person.md)
    + Parâmetros do UTM{#utm-parameters}
       + [Como [!DNL Marketo Measure] a marcação funciona](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
