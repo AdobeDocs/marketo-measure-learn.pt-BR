@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Saiba como aproveitar ao máximo o [!DNL Adobe Marketo Measure] (anteriormente, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] fundamentos e definições.
 auto-video-transcripts: true
-source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
+source-git-commit: 1e0a4e4b256f47d7c04455990083c4044cd04284
 workflow-type: tm+mt
 source-wordcount: '314'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 6%
       + [Revisar as configurações de canal e integração (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [Configurações do CRM (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
       + [Configurações para clientes em potencial, contatos e oportunidades](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
-      + [Configuração de canal online](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Configuração do canal online](/help/onboarding/fundamentals/online-channel-setup.md)
       + [Visão geral da conexão de anúncios](/help/onboarding/fundamentals/ads-connection-overview.md)
       + [Visão geral da instalação do SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Configuração de canal offline](/help/onboarding/fundamentals/offline-channel-setup.md)
@@ -92,7 +92,7 @@ ht-degree: 6%
       + [objeto BT](/help/definitions/crm-objects/bt-object.md)
       + [Objeto MTD](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure person](/help/definitions/crm-objects/marketo-measure-person.md)
-   + Parâmetros do UTM{#utm-parameters}
+   + Parâmetros UTM{#utm-parameters}
       + [Como [!DNL Marketo Measure] a marcação funciona](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Conectar plataformas integradas com [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomia de um parâmetro UTM](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
