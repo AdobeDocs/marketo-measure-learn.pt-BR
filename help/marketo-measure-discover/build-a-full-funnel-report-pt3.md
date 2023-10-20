@@ -1,6 +1,6 @@
 ---
 title: Relatórios De Funil De Descoberta (Pt.3)
-description: Este vídeo aborda uma parte superior do relatório de funil que, por sua vez, mostrará se o Marketo Measure está rastreando, se você está gerando leads e se a configuração do Canal foi feita corretamente.
+description: Obtenha uma apresentação de um relatório de topo de funil, que mostra se o Marketo Measure está rastreando, se você está gerando leads e se o Canal está configurado corretamente.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14019
 thumbnail: 3424434.jpeg
-source-git-commit: 10b20c84e967a1b20eab47479634617cd07d6a74
+exl-id: c7d1b47c-2331-47db-af07-a259cab15fad
+source-git-commit: ee8dd3c468dc6b2b73be48740f6f60079590c527
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-
 # Relatórios do funil de descoberta
 
-Este vídeo aborda uma parte superior do relatório de funil que, por sua vez, mostrará se o Marketo Measure está rastreando, se você está gerando leads e se a configuração do Canal foi feita corretamente.
+Este vídeo fornece uma apresentação de um relatório de topo de funil, que mostra se o Marketo Measure está rastreando, se você está gerando leads e se o Canal está configurado corretamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
