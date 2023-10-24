@@ -1,24 +1,24 @@
 ---
 title: Determinar qual canal está funcionando (Pt.1)
-description: Esse relatório se concentra na parte superior a média do funil de marketing. Depois que o relatório for criado, você poderá ver quais canais estão gerando mais oportunidades, para que você possa investir nesses canais de marketing.
+description: Este vídeo aborda uma parte superior do relatório de funil que, por sua vez, mostrará se o Marketo Measure está rastreando, se você está gerando leads e se a configuração do Canal foi feita corretamente.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-22T00:00:00Z
-jira: KT-14021
-thumbnail: 3424433.jpeg
-source-git-commit: b68f8979f1ef338856f280552297adef528b74f4
+last-substantial-update: 2023-10-24T00:00:00Z
+jira: KT-14019
+thumbnail: 3424434.jpeg
+source-git-commit: 33afe1c783cb8db607a6122752359aa7b287cba4
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 
-# Determine qual canal está funcionando
+# Parte superior do relatório de funil
 
-Esse relatório se concentra na parte superior a média do funil de marketing. Depois que o relatório for criado, você poderá ver quais canais estão gerando mais oportunidades, para que você possa investir nesses canais de marketing.
+Este vídeo aborda uma parte superior do relatório de funil que, por sua vez, mostrará se o Marketo Measure está rastreando, se você está gerando leads e se a configuração do Canal foi feita corretamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
