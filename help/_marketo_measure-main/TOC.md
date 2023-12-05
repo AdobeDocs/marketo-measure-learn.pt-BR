@@ -1,12 +1,12 @@
 ---
 user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
-user-guide-description: Saiba como aproveitar ao máximo o  [!DNL Adobe Marketo Measure]  (antigo,  [!DNL Bizible]). Assista aos tutoriais sobre instalação, integração, fundamentos e definições.
+user-guide-description: Saiba como aproveitar ao máximo o [!DNL Adobe Marketo Measure] (anteriormente, [!DNL Bizible]). Assista aos tutoriais sobre instalação, integração, fundamentos e definições.
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 12%
+source-wordcount: '334'
+ht-degree: 3%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 12%
    + [Modificar conjuntos de permissões](/help/installing/modify-permission-sets-production.md)
    + [Compartilhar e ocultar relatórios e painéis](/help/installing/sharing-reports-production.md)
    + [Crie o [!DNL Marketo Measure] account](/help/installing/creating-marketo-measure-account-production.md)
-+ Ambientação{#onboarding}
++ Integração{#onboarding}
    + Práticas recomendadas{#best-practices}
       + [Revisar Configurações De Relatórios (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [Revisar as configurações de canal e integração (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [Configurações do CRM (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
       + [Configurações para clientes em potencial, contatos e oportunidades](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
-      + [Configuração do canal online](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Configuração de canal online](/help/onboarding/fundamentals/online-channel-setup.md)
       + [Visão geral da conexão de anúncios](/help/onboarding/fundamentals/ads-connection-overview.md)
       + [Visão geral da instalação do SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Configuração de canal offline](/help/onboarding/fundamentals/offline-channel-setup.md)
@@ -64,7 +64,7 @@ ht-degree: 12%
    + Fundamentos{#fundamentals}
       + [Supressão do ponto de contato](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [Atribuição de atividades](/help/onboarding/fundamentals/activities-attribution.md)
-+ [!DNL Marketo Measure] Discover{#marketo-measure-discover}
++ [!DNL Marketo Measure] Descobrir{#marketo-measure-discover}
    + [Introdução ao [!DNL Marketo Measure] Descobrir](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
    + [Conheça o painel de visão geral](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
    + [Receita atribuída do Discover](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
@@ -72,8 +72,6 @@ ht-degree: 12%
    + [Determinar qual canal está funcionando (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Determinar qual canal está funcionando (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Relatórios De Funil De Descoberta (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] Chat ao vivo {#live-chat}
-   + [Atribuição e métricas de marketing](/help/_assets/marketing_attribution and metrics.md)
 + Definições{#definitions}
    + Pontos de contato{#touchpoints}
       + [O que é um ponto de contato?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
@@ -112,3 +110,5 @@ ht-degree: 12%
    + Estágio de bumerangue{#boomerang-stage}
       + [Introdução aos estágios de bumerangue](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Configurar estágios de bumerangue](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Palestras de evangelista {#evangelist}
+   + [Atribuição e métricas de marketing](/help/evangelist-talks/attribution-and-metrics.md)
