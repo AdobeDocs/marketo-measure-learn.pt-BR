@@ -4,10 +4,10 @@ recommendations: noDisplay, noCatalog
 description: Aproveite ao máximo o [!DNL Adobe Marketo Measure] (anteriormente conhecido como [!DNL Bizible]), o aplicativo de atribuição de marketing B2B líder do setor.
 doc-type: overview-page
 exl-id: 83dae370-8ffd-4715-b72e-4e232f1bf31d
-source-git-commit: 3a3c7d0066e696728df7c114938a365972df9f74
+source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 2%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
@@ -23,3 +23,8 @@ Este guia do usuário contém vídeos e tutoriais sobre os recursos e caracterí
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
+
+## Experience League Eventos ao vivo
+
+* **[Novos painéis do Discover da Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+  *Saiba mais sobre os novos e completamente remodelados Painéis do Discover.*
