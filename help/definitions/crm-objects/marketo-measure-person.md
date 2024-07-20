@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Marketo Measure] Pessoa"
-description: Saiba mais sobre o [!DNL Marketo Measure] Objeto Pessoa e como ele cria uma pesquisa entre os objetos Cliente Potencial e Contato.
+description: Saiba mais sobre o objeto Pessoa [!DNL Marketo Measure] e como ele cria uma pesquisa entre os objetos Cliente Potencial e Contato.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
-# [!DNL Marketo Measure] Pessoa
+# Pessoa do [!DNL Marketo Measure]
 
-Saiba mais sobre o [!DNL Marketo Measure] Objeto Pessoa e como ele cria uma pesquisa entre os objetos Cliente Potencial e Contato.
+Saiba mais sobre o objeto Pessoa [!DNL Marketo Measure] e como ele cria uma pesquisa entre os objetos Cliente Potencial e Contato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}

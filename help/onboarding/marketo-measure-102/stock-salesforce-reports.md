@@ -1,6 +1,6 @@
 ---
 title: Relatórios do Stock Salesforce
-description: Esta lição aborda relatórios e objetos de dados padrão pré-criados do Salesforce CRM incluídos na [!DNL Marketo Measure].
+description: Esta lição aborda relatórios padrão do Salesforce CRM e objetos de dados pré-criados incluídos com o  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Relatórios do Stock Salesforce
 
-Esta lição aborda relatórios e objetos de dados padrão pré-criados do Salesforce CRM incluídos na [!DNL Marketo Measure].
+Esta lição abrange relatórios padrão do Salesforce CRM e objetos de dados pré-criados incluídos com o [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

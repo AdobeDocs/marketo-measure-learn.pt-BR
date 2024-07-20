@@ -1,6 +1,6 @@
 ---
-title: Por que [!DNL Marketo Measure] para marketing por email
-description: 'Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para profissionais de marketing por email.'
+title: Por que [!DNL Marketo Measure] para Email Marketing
+description: Esta lição resume os principais recursos e o valor do  [!DNL Marketo Measure] para profissionais de marketing por email.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Por que [!DNL Marketo Measure] para marketing por email
 
-Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para profissionais de marketing por email.
+Esta lição resume os principais recursos e o valor do [!DNL Marketo Measure] para os profissionais de marketing por email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}

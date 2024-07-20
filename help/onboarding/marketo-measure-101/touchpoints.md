@@ -1,6 +1,6 @@
 ---
 title: Pontos de contato
-description: Esta lição descreve em quais pontos de contato estão [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] objetos de dados, incluindo [!DNL Marketo Measure] Pontos de contato e [!DNL Marketo Measure] Os Pontos de contato de atribuição (BATs) foram introduzidos.
+description: Esta lição descreve quais são os pontos de contato em [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] objetos de dados, incluindo [!DNL Marketo Measure] Pontos de contato (BT) e [!DNL Marketo Measure] Pontos de contato de atribuição (BAT) introduzidos.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 3%
 
 # Pontos de contato
 
-Esta lição descreve em quais pontos de contato estão [!DNL Marketo Measure], como eles são criados e como são usados para atribuição. [!DNL Marketo Measure] objetos de dados, incluindo [!DNL Marketo Measure] Pontos de contato e [!DNL Marketo Measure] Os Pontos de contato de atribuição (BATs) foram introduzidos.
+Esta lição descreve quais pontos de contato estão em [!DNL Marketo Measure], como eles são criados e como são usados para atribuição. [!DNL Marketo Measure] objetos de dados, incluindo [!DNL Marketo Measure] Pontos de contato (BT) e [!DNL Marketo Measure] Pontos de contato de atribuição (BAT) foram introduzidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}

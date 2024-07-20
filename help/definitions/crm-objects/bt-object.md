@@ -1,6 +1,6 @@
 ---
 title: Objeto do Marketo Measure Touchpoint
-description: Saiba mais sobre uma [!DNL Marketo Measure] Ponto de contato.
+description: Saiba mais sobre um  [!DNL Marketo Measure] Touchpoint.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objeto de ponto de contato do Marketo Measure
 
-Saiba mais sobre uma [!DNL Marketo Measure] Ponto de contato.
+Conheça um Touchpoint [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

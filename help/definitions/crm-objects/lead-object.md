@@ -1,6 +1,6 @@
 ---
 title: Objeto de lead
-description: Assista a um detalhamento do relacionamento entre o objeto de cliente potencial e o [!DNL Marketo Measure] Objeto Touchpoint.
+description: Assista a um detalhamento da relação entre o objeto de cliente potencial e o objeto [!DNL Marketo Measure] Touchpoint.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objeto de lead
 
-Assista a um detalhamento do relacionamento entre o objeto de cliente potencial e o [!DNL Marketo Measure] Objeto Touchpoint.
+Assista a um detalhamento da relação entre o objeto de cliente potencial e o objeto Touchpoint [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

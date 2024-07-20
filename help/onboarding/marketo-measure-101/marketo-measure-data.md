@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Marketo Measure] Dados"
-description: Esta lição fornece uma visão geral do [!DNL Marketo Measure] fontes de dados que incluem [!DNL Marketo Measure] JavaScript, Integrações de API, Parâmetros UTM, Dados de CRM e Dados Inseridos Manualmente.
+description: Esta lição fornece uma visão geral das  [!DNL Marketo Measure] fontes de dados que incluem [!DNL Marketo Measure] JavaScript, Integrações de API, Parâmetros de UTM, Dados de CRM e Dados Inseridos Manualmente.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] Dados
+# Dados de [!DNL Marketo Measure]
 
-Esta lição fornece uma visão geral do [!DNL Marketo Measure] fontes de dados que incluem [!DNL Marketo Measure] JavaScript, Integrações de API, Parâmetros UTM, Dados de CRM e Dados Inseridos Manualmente.
+Esta lição fornece uma visão geral das fontes de dados [!DNL Marketo Measure] que incluem [!DNL Marketo Measure] JavaScript, Integrações de API, Parâmetros UTM, Dados de CRM e Dados Inseridos Manualmente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}

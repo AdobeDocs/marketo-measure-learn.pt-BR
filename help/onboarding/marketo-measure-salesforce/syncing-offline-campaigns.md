@@ -1,6 +1,6 @@
 ---
 title: Sincronização de campanhas offline
-description: Esta lição aborda como sincronizar campanhas do Salesforce CRM com o [!DNL Marketo Measure] - individualmente ou a granel.
+description: Esta lição aborda como sincronizar as Campanhas do Salesforce CRM com o  [!DNL Marketo Measure] - individualmente ou em massa.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 16%
 
 # Sincronização de campanhas offline
 
-Esta lição aborda como sincronizar campanhas do Salesforce CRM com o [!DNL Marketo Measure] - individualmente ou a granel.
+Esta lição aborda como sincronizar as Campanhas do Salesforce CRM com o [!DNL Marketo Measure] - individualmente ou em massa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: Por que [!DNL Marketo Measure] para marketing de conteúdo
-description: 'Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para as equipes de marketing de conteúdo.'
+title: Por que [!DNL Marketo Measure] para Marketing de Conteúdo
+description: Esta lição resume os principais recursos e o valor do  [!DNL Marketo Measure] para as equipes de marketing de conteúdo.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Por que [!DNL Marketo Measure] para marketing de conteúdo
 
-Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para as equipes de marketing de conteúdo.
+Esta lição resume os principais recursos e o valor de [!DNL Marketo Measure] para as equipes de marketing de conteúdo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}

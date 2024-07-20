@@ -1,6 +1,6 @@
 ---
 title: Objetos do CRM
-description: Assista a um detalhamento da relação entre objetos de CRM padrão e [!DNL Marketo Measure] objetos e campos personalizados.
+description: Assista a um detalhamento da relação entre objetos padrão do CRM e [!DNL Marketo Measure] objetos e campos personalizados.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objetos do CRM
 
-Assista a um detalhamento da relação entre objetos de CRM padrão e [!DNL Marketo Measure] objetos e campos personalizados.
+Assista a um detalhamento da relação entre objetos padrão do CRM e [!DNL Marketo Measure] objetos e campos personalizados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}

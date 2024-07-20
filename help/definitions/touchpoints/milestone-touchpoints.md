@@ -1,6 +1,6 @@
 ---
 title: Pontos de contato de marco
-description: Saiba mais sobre os principais marcos do [!DNL Marketo Measure] e como elas são criadas.
+description: Saiba mais sobre os principais marcos do  [!DNL Marketo Measure]  e como eles são criados.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11323
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Pontos de contato de marco
 
-Saiba mais sobre os principais marcos do [!DNL Marketo Measure] e como elas são criadas.
+Saiba mais sobre os principais marcos do [!DNL Marketo Measure] e como eles são criados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}

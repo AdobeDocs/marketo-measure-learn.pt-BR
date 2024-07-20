@@ -1,6 +1,6 @@
 ---
-title: Usar [!DNL Marketo Measure] como CMO ou VP
-description: Esta lição fornece uma rápida demonstração de como os CMOs e outros líderes de marketing sênior podem usar o [!DNL Marketo Measure] em seu cargo.
+title: Usando  [!DNL Marketo Measure] como CMO ou VP
+description: Esta lição fornece uma rápida demonstração de como os CMOs e outros líderes de marketing sênior podem usar o  [!DNL Marketo Measure]  em suas funções.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Usar [!DNL Marketo Measure] como CMO ou VP
+# Usando [!DNL Marketo Measure] como CMO ou VP
 
-Esta lição fornece uma rápida demonstração de como os CMOs e outros líderes de marketing sênior podem usar o [!DNL Marketo Measure] em seu cargo.
+Esta lição fornece uma rápida demonstração de como os CMOs e outros líderes de marketing sênior podem usar o [!DNL Marketo Measure] em suas funções.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}

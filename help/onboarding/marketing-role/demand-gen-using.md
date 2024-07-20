@@ -1,6 +1,6 @@
 ---
-title: Usar [!DNL Marketo Measure] as a Demand Gen/Paid Media Marketing
-description: Esta lição fornece uma rápida demonstração de como as equipes de geração de demanda e de mídia paga podem usar o [!DNL Marketo Measure] em seu cargo.
+title: Usando o  [!DNL Marketo Measure] como um profissional de marketing de mídia paga/Gen sob demanda
+description: Esta lição fornece uma rápida demonstração de como as equipes de geração de demanda e de mídia paga podem usar  [!DNL Marketo Measure]  em suas funções.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Usar [!DNL Marketo Measure] as a Demand Gen/Paid Media Marketing
+# Usando o [!DNL Marketo Measure] como um profissional de marketing de mídia paga/Gen sob demanda
 
-Esta lição fornece uma rápida demonstração de como as equipes de geração de demanda e de mídia paga podem usar o [!DNL Marketo Measure] em seu cargo.
+Esta lição fornece uma rápida demonstração de como as equipes de geração de demanda e de mídia paga podem usar [!DNL Marketo Measure] em suas funções.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}

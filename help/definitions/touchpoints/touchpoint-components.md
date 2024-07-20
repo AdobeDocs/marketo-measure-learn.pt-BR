@@ -1,6 +1,6 @@
 ---
 title: Componentes do ponto de contato
-description: Obtenha um detalhamento dos vários componentes dos pontos de contato e como eles são definidos. Este exemplo quebra componentes tanto de BT como de MTD.
+description: Obtenha um detalhamento dos vários componentes dos pontos de contato e como eles são definidos. Este exemplo quebra componentes de BT e BAT.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11324
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Componentes do ponto de contato
 
-Obtenha um detalhamento dos vários componentes dos pontos de contato e como eles são definidos. Este exemplo quebra componentes tanto de BT como de MTD.
+Obtenha um detalhamento dos vários componentes dos pontos de contato e como eles são definidos. Este exemplo quebra componentes de BT e BAT.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}

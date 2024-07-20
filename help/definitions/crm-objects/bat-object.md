@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL Ponto de contato de atribuição] objeto
+# Objeto [!DNL Marketo Measure] [!UICONTROL Attribution Touchpoint]
 
 Saiba mais sobre [!DNL Marketo Measure] [!UICONTROL Pontos de contato de atribuição].
 

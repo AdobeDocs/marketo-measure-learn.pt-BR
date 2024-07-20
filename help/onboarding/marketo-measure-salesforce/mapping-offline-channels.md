@@ -1,6 +1,6 @@
 ---
 title: Mapeamento de canais offline
-description: Esta lição aborda o mapeamento de canais offline para [!DNL Marketo Measure] com o objeto Campanha do Salesforce e o campo Tipos de campanha.
+description: Esta lição aborda o mapeamento de canais offline para  [!DNL Marketo Measure]  com o objeto Campanha do Salesforce e o campo Tipos de campanha.
 role: User
 level: Beginner
 doc-type: Feature Video

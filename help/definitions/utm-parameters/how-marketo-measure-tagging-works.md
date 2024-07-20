@@ -1,6 +1,6 @@
 ---
 title: Como funciona a marcação
-description: Saiba como [!DNL Marketo Measure] a marcação funciona e sobre o uso de uma plataforma de marcação integrada.
+description: Saiba como a marcação  [!DNL Marketo Measure]  funciona e sobre como usá-la em uma plataforma de marcação integrada.
 jira: KT-11233
 thumbnail: 347200.jpeg
 exl-id: 6c8c4c89-d4c2-4ed2-bed5-de06da91dc2b
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Como [!DNL Marketo Measure] Marcação de trabalhos
+# Como funciona a marcação [!DNL Marketo Measure]
 
-Saiba como [!DNL Marketo Measure] a marcação funciona e sobre o uso de uma plataforma de marcação integrada.
+Saiba como funciona a marcação do [!DNL Marketo Measure] e sobre o uso de uma plataforma de marcação integrada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}

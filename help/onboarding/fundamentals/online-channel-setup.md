@@ -1,5 +1,5 @@
 ---
-title: Configuração do canal online
+title: Configuração de canal online
 description: Saiba mais sobre Canais online, criação de canais e planilha de canais online.
 feature-set: Marketo Measure
 feature: Touchpoints, Tracking, UTM Parameters
@@ -13,11 +13,11 @@ exl-id: 6b7cf1da-159f-4898-adfd-883ffd7b3ddd
 source-git-commit: ddbe42250815c776ae25f660a34bbbcd47d8a480
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 20%
+ht-degree: 0%
 
 ---
 
-# Configuração do canal online
+# Configuração de canal online
 
 Saiba mais sobre Canais online, criação de canais e planilha de canais online.
 

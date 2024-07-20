@@ -1,5 +1,5 @@
 ---
-title: A variável [!DNL Marketo Measure] Painéis de ROI
+title: Os  [!DNL Marketo Measure] Painéis de ROI
 description: Esta lição fornece uma visão geral dos painéis configuráveis disponíveis no [!DNL Marketo Measure].
 role: User
 level: Beginner
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# A variável [!DNL Marketo Measure] Painéis de ROI
+# Os Painéis de ROI do [!DNL Marketo Measure]
 
 Esta lição fornece uma visão geral dos painéis configuráveis disponíveis no [!DNL Marketo Measure].
 

@@ -1,5 +1,5 @@
 ---
-title: Introdução ao [!DNL Marketo Measure] Descobrir
+title: Introdução à  [!DNL Marketo Measure] Descoberta
 description: Assista a uma visão geral de alto nível do Discover e seus vários painéis. Nesta lição, saiba mais sobre casos de uso comuns de relatórios para vários painéis e blocos do Discover.
 jira: KT-11230
 thumbnail: 347206.jpeg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Introdução ao [!DNL Marketo Measure] [!UICONTROL Descobrir]
+# Introdução à [!DNL Marketo Measure] [!UICONTROL Descoberta]
 
-Assista a uma visão geral de alto nível do [!UICONTROL Descobrir] e seus vários conselhos. Nesta lição, saiba mais sobre casos de uso comuns de relatórios para vários painéis e blocos do Discover.
+Assista a uma visão geral de alto nível do [!UICONTROL Discover] e de seus vários painéis. Nesta lição, saiba mais sobre casos de uso comuns de relatórios para vários painéis e blocos do Discover.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}

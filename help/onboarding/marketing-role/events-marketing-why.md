@@ -1,6 +1,6 @@
 ---
-title: Por que [!DNL Marketo Measure] para marketing de eventos
-description: 'Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para as equipes de marketing de eventos.'
+title: Por que [!DNL Marketo Measure] para Marketing de Eventos
+description: Esta lição resume os principais recursos e o valor do  [!DNL Marketo Measure] para as equipes de marketing de eventos.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,13 +12,13 @@ feature: Fundamentals
 hidefromtoc: true
 source-git-commit: d8164c4838e2b10d80e873a4ad8a5442daef7d1b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
 # Por que [!DNL Marketo Measure] para marketing de eventos
 
-Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para as equipes de marketing de eventos.
+Esta lição resume os principais recursos e o valor de [!DNL Marketo Measure] para as equipes de marketing de eventos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}

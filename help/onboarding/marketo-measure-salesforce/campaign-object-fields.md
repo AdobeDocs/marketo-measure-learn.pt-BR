@@ -1,6 +1,6 @@
 ---
 title: Campos de objeto da campanha
-description: Esta lição abrange os campos de objeto da campanha do Salesforce CRM que [!DNL Marketo Measure] O usa o para mapear campanhas e membros de campanha para canais de marketing. Entender o que esses objetos de campanha fazem é importante conforme você gerencia e mapeia seus canais offline no [!DNL Marketo Measure].
+description: Esta lição abrange os campos de objeto da campanha do Salesforce CRM que [!DNL Marketo Measure] usa para mapear campanhas e membros da campanha para canais de marketing. Entender o que esses objetos de campanha fazem é importante ao gerenciar e mapear seus canais offline no [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Campos de objeto da campanha
 
-Esta lição abrange os campos de objeto da campanha do Salesforce CRM que [!DNL Marketo Measure] O usa o para mapear campanhas e membros de campanha para canais de marketing. Entender o que esses objetos de campanha fazem é importante conforme você gerencia e mapeia seus canais offline no [!DNL Marketo Measure].
+Esta lição abrange os campos de objeto da campanha do Salesforce CRM que [!DNL Marketo Measure] usa para mapear campanhas e membros da campanha para canais de marketing. Entender o que esses objetos de campanha fazem é importante ao gerenciar e mapear seus canais offline no [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}

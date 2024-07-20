@@ -1,6 +1,6 @@
 ---
-title: Usar [!DNL Marketo Measure] como um profissional de marketing de eventos
-description: Esta lição fornece uma rápida demonstração de como as equipes de marketing de eventos podem usar o [!DNL Marketo Measure] em seu cargo.
+title: Usando o  [!DNL Marketo Measure]  como um profissional de marketing de eventos
+description: Esta lição fornece uma rápida demonstração de como as equipes de Marketing de Eventos podem usar  [!DNL Marketo Measure]  em suas funções de trabalho.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Usar [!DNL Marketo Measure] como um profissional de marketing de eventos
+# Usando o [!DNL Marketo Measure] como um profissional de marketing de eventos
 
-Esta lição fornece uma rápida demonstração de como as equipes de marketing de eventos podem usar o [!DNL Marketo Measure] em seu cargo.
+Esta lição fornece uma rápida demonstração de como as equipes de Marketing de Eventos podem usar [!DNL Marketo Measure] em suas funções de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Por que [!DNL Marketo Measure] para CMOs e VPs
-description: 'Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para CMOs e outros líderes de marketing sênior.'
+description: Esta lição resume os principais recursos e o valor do  [!DNL Marketo Measure] para as CMOs e outros líderes de marketing sênior.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Por que [!DNL Marketo Measure] para CMOs e VPs
 
-Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para CMOs e outros líderes de marketing sênior.
+Esta lição resume os principais recursos e o valor do [!DNL Marketo Measure] para as CMOs e outros líderes de marketing sênior.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

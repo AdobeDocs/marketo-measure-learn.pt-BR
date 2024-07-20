@@ -1,6 +1,6 @@
 ---
-title: Por que [!DNL Marketo Measure] para mídia de demanda gerada/paga
-description: 'Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para as equipes de geração de demanda e de mídia paga.'
+title: Por que [!DNL Marketo Measure] para mídia paga/de geração de demanda
+description: Esta lição resume os principais recursos e o valor do  [!DNL Marketo Measure] para as equipes de geração de demanda e de mídia paga.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Por que [!DNL Marketo Measure] para mídia de demanda gerada/paga
+# Por que o [!DNL Marketo Measure] para mídia paga/de geração de demanda
 
-Esta lição resume: [!DNL Marketo Measure]Principais recursos e valor do para as equipes de geração de demanda e de mídia paga.
+Esta lição resume os principais recursos e o valor do [!DNL Marketo Measure] para as equipes de geração de demanda e de mídia paga.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}

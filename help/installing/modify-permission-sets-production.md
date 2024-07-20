@@ -1,6 +1,6 @@
 ---
 title: Modificar conjuntos de permissões (instância de produção)
-description: Saiba como modificar conjuntos de permissões no [!DNL Marketo Measure] (instância de produção).
+description: Saiba como modificar Conjuntos de Permissões em [!DNL Marketo Measure] (instância de produção).
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Modificando conjuntos de permissões (instância de produção)
 
-Saiba como modificar conjuntos de permissões no [!DNL Marketo Measure] (instância de produção).
+Saiba como modificar Conjuntos de Permissões em [!DNL Marketo Measure] (instância de produção).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
