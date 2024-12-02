@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Marketo Measure] Dados"
+title: Dados de [!DNL Marketo Measure]
 description: Esta lição fornece uma visão geral das  [!DNL Marketo Measure] fontes de dados que incluem [!DNL Marketo Measure] JavaScript, Integrações de API, Parâmetros de UTM, Dados de CRM e Dados Inseridos Manualmente.
 role: User
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 462ffcdd-d59e-44c3-9b06-c682de049e8d
 feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

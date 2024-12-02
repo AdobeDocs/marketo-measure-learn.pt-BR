@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Marketo Measure] Pessoa"
+title: Pessoa do [!DNL Marketo Measure]
 description: Saiba mais sobre o objeto Pessoa [!DNL Marketo Measure] e como ele cria uma pesquisa entre os objetos Cliente Potencial e Contato.
 role: User
 level: Beginner
@@ -11,8 +11,8 @@ exl-id: 1afac56c-7f88-4331-aab9-c4b8df5c2332
 feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 2%
+source-wordcount: '36'
+ht-degree: 5%
 
 ---
 
