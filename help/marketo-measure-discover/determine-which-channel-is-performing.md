@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Esse relatório se concentra na parte superior a média do funil de marketing. Depois que o relatório for criado, você poderá ver quais canais estão gerando mais oportunidades, para que você possa investir nesses canais de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443745/?learn=on&captions=por_br)

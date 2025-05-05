@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Uma visão geral de Supressão, Segmentação e Custo do Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453229/?learn=on&captions=por_br){transcript=true}

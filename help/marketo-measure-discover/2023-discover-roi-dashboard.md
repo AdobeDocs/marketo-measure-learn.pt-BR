@@ -21,4 +21,4 @@ ht-degree: 0%
 
 O painel de ROI fornece aos profissionais de marketing uma visão detalhada do retorno sobre o investimento em canais, subcanais e campanhas. Ele detalha meticulosamente os padrões de custo e receita, além de destacar métricas como custo por lead, negociação e oportunidade, garantindo uma compreensão abrangente da atribuição de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449469/?learn=on&captions=por_br){transcript=true}

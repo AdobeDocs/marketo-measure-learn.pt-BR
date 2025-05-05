@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Andy Schneider, consultor de soluções para o Adobe (Marketo Measure), e Ian Michels, divulgador do Adobe Marketo, discutem como suas conversas de atribuição de marketing e experiências com os clientes. Esta conversa discute como as equipes de MOPs vão desde a ausência de relatórios de atribuição até como as empresas da Fortune 100 estão usando o Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426840/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456514/?learn=on&captions=por_br)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Guia de configuração de canal offline do Marketo Measure
 
->[!VIDEO](https://video.tv.adobe.com/v/3424428/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454618/?learn=on&captions=por_br){transcript=true}

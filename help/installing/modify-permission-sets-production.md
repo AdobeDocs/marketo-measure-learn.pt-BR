@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como modificar Conjuntos de Permissões em [!DNL Marketo Measure] (instância de produção).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431527/?learn=on&captions=por_br){transcript=true}

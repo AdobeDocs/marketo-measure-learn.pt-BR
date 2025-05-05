@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo fornece uma explicação detalhada do Modelo de caminho completo.
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432035/?learn=on&captions=por_br){transcript=true}

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Andy Schneider, consultor de soluções da Adobe, e Ian Michels, divulgador do Adobe Marketo, discutem a diferença entre atribuição de marketing e métricas de marketing. Há softwares de relatórios no mercado que afirmam que fazem atribuição, mas na realidade eles estão relatando sobre métricas de marketing. Nesta discussão, você aprenderá quais perguntas fazer durante o processo de vendas, como decifrar qual software é atribuição de marketing ou métrica específica e como dimensionar suas necessidades de atribuição de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425898/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455504/?learn=on&captions=por_br)
 
 ## Pontos principais da discussão
 

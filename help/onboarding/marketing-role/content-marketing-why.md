@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Esta lição resume os principais recursos e o valor de [!DNL Marketo Measure] para as equipes de marketing de conteúdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431570/?learn=on&captions=por_br){transcript=true}

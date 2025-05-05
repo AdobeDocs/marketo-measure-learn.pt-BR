@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Este vídeo fornece uma explicação detalhada do Modelo de criação de leads.
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432089/?learn=on&captions=por_br){transcript=true}

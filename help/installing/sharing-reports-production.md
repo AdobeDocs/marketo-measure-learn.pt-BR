@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Esta lição aborda a exibição e o compartilhamento de relatórios e painéis.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431548/?learn=on&captions=por_br){transcript=true}

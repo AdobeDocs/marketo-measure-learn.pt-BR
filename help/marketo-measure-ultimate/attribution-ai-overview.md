@@ -20,4 +20,4 @@ ht-degree: 13%
 
 Descubra como a Adobe Attribution AI aprimora a medição de marketing B2B com modelagem sofisticada de IA/ML, oferecendo insights de atribuição precisos e eliminando distorções para uma análise precisa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433052/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447226/?learn=on&captions=por_br)

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Uma visão geral de alto nível da [!UICONTROL conta por pontuação de engajamento].  Este tutorial discute quais métricas entram nessa pontuação e o relatório associado a ela.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432127/?learn=on&captions=por_br){transcript=true}

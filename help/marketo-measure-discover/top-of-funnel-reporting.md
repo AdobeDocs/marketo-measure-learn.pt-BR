@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Este vídeo aborda uma parte superior do relatório de funil que, por sua vez, mostrará se o Marketo Measure está rastreando, se você está gerando leads e se a configuração do Canal foi feita corretamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441785/?learn=on&captions=por_br){transcript=true}

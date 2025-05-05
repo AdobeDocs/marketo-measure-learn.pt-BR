@@ -16,4 +16,4 @@ ht-degree: 6%
 
 Assista à segunda lição da série de cursos Boomerang. Por favor, tire a primeira lição antes de assistir a esta. Isso discute a configuração dos [!UICONTROL Estágios de Bumerangue] em [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431589/?learn=on&captions=por_br){transcript=true}

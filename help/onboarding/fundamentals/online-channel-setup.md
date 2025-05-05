@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Saiba mais sobre Canais online, criação de canais e planilha de canais online.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454152/?learn=on&captions=por_br){transcript=true}

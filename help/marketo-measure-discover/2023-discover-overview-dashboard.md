@@ -21,4 +21,4 @@ ht-degree: 0%
 
 O painel Visão geral da receita fornece insights sobre a receita total derivada do seu CRM, esclarecendo a função das estratégias de marketing. Ele oferece uma visão geral de como o marketing influencia sua receita geral e contribui para o encerramento bem-sucedido das ofertas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446358/?learn=on&captions=por_br){transcript=true}
