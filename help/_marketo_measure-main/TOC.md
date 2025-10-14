@@ -19,7 +19,7 @@ ht-degree: 6%
    + [Instalação do Marketo Measure](/help/installing/install-production.md)
    + [Modificar conjuntos de permissões](/help/installing/modify-permission-sets-production.md)
    + [Compartilhar e ocultar relatórios e painéis](/help/installing/sharing-reports-production.md)
-   + [Criar a conta  [!DNL Marketo Measure] ](/help/installing/creating-marketo-measure-account-production.md)
+   + [Criar a conta  [!DNL Marketo Measure] &#x200B;](/help/installing/creating-marketo-measure-account-production.md)
 + Integração de {#onboarding}
    + Práticas recomendadas {#best-practices}
       + [Revisar Configurações De Relatórios (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -88,7 +88,7 @@ ht-degree: 6%
       + [Modelo em forma de W](/help/definitions/attribution/w-shaped-model.md)
       + [Modelo de caminho completo](/help/definitions/attribution/full-path-model.md)
    + Objetos do CRM {#crm-objects}
-      + [Visão geral da taxonomia  [!DNL Marketo Measure] ](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [Visão geral da taxonomia  [!DNL Marketo Measure] &#x200B;](/help/definitions/crm-objects/taxonomy-overview.md)
       + [Objetos do CRM](/help/definitions/crm-objects/crm-objects.md)
       + [Objeto de cliente potencial](/help/definitions/crm-objects/lead-object.md)
       + [Objeto de contato](/help/definitions/crm-objects/contact-object.md)
@@ -97,7 +97,7 @@ ht-degree: 6%
       + [objeto BAT](/help/definitions/crm-objects/bat-object.md)
       + [Marketo Measure person](/help/definitions/crm-objects/marketo-measure-person.md)
    + Parâmetros UTM {#utm-parameters}
-      + [Como funciona a marcação  [!DNL Marketo Measure] ](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [Como funciona a marcação  [!DNL Marketo Measure] &#x200B;](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Conectando plataformas integradas com  [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomia de um parâmetro UTM](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Práticas recomendadas UTM](/help/definitions/utm-parameters/utm-best-practices.md)
