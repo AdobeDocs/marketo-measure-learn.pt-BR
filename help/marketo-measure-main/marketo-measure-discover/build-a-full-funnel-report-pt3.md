@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Neste relatório, analisamos um relatório completo do funnel. Este relatório de Descoberta rastreará, do início ao fim, quais canais foram envolvidos e atribuirá oportunidades e/ou receita a esses canais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443756/?captions=por_br&learn=on){transcript=true}

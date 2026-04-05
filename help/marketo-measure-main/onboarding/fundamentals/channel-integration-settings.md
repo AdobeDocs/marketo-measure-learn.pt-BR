@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Visão geral das configurações de Canal e Integração no Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452376/?captions=por_br&learn=on){transcript=true}

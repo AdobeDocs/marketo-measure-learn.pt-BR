@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenha um detalhamento dos vários componentes dos pontos de contato e como eles são definidos. Este exemplo quebra componentes tanto de BT como de MTD.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437617/?captions=por_br&learn=on){transcript=true}

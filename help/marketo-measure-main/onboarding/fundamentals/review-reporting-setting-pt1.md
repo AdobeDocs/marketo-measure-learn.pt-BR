@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Visão geral das configurações de Relatórios no Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453713/?captions=por_br&learn=on){transcript=true}
