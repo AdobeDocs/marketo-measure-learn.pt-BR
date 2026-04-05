@@ -26,6 +26,6 @@ Este guia do usuário contém vídeos e tutoriais sobre os recursos e caracterí
 
 ## Eventos ao vivo da Experience League
 
-* **[Novos Painéis de Descoberta do Marketo Measure](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Novos Painéis de Descoberta do Marketo Measure](https://experienceleague.adobe.com/pt-br/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *Saiba mais sobre os Painéis do Discover novos e completamente remodelados.*
 
