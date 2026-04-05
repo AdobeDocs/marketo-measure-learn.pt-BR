@@ -1,0 +1,19 @@
+---
+title: Atribuição de atividades
+description: Saiba mais sobre a Atribuição de atividades no Marketo Measure. Esse recurso permite criar pontos de contato a partir do objeto Atividades no Salesforce por meio de registros de Tarefa ou Evento.
+jira: KT-11229
+thumbnail: 347192.jpeg
+exl-id: 76e40127-e293-4b94-a071-ff48465c9b11
+feature: Attribution
+source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 0%
+
+---
+
+# Atribuição de atividades
+
+Esta lição abrange [!UICONTROL Atribuição de atividades]. Esse recurso permite criar pontos de contato a partir do objeto Atividades no Salesforce por meio de registros de Tarefa ou Evento.
+
+>[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}
